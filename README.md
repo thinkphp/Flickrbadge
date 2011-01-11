@@ -39,8 +39,8 @@ In your BODY:
 * the only need to insert the SCRIPT once, and the best option is to add it to the end of the document, just before the closing BODY tag.
 * the script is a single include and loads the style sheet and the class helps files on demand when they are needed.
 * visitors can see your photos on the page and click the thumbnails to see the larger preview. You can style the the badge any way you like by changing the supplied CSS file.
-* You can see the badge in action:
 
+  You can see the badge in action:
 - [http://thinkphp.github.com/Flickrbadge/](http://thinkphp.github.com/Flickrbadge/)
 - [http://jsfiddle.net/C5TqP/](http://jsfiddle.net/C5TqP/)
 

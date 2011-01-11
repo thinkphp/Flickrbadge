@@ -3,5 +3,5 @@ author: thinkphp
 current: v1.0
 category: Widgets
 tags: [jsonp,request,interface,flickr,photos,badge,widgets]
-docs: 
-demo: http://thinkphp.github.com/Flickrbadge
+docs: https://github.com/thinkphp/Flickrbadge/blob/master/Docs/Flickrbadge.md
+demo: http://thinkphp.github.com/Flickrbadge/

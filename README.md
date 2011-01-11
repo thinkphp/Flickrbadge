@@ -40,15 +40,17 @@ In your BODY:
 * visitors can see your photos on the page and click the thumbnails to see the larger preview. You can style the the badge any way you like by changing the supplied CSS file.
 * the options can be changed in any way you need.
 
-  You can see the badge in action:
+### You can see the badge in action:
 - [http://thinkphp.github.com/Flickrbadge/](http://thinkphp.github.com/Flickrbadge/)
 - []()
 
-  Your sample looks as following:
 
-  <div class="...class...">
-       <p><a href="...@...">...text...</a></p>
-  </div>
+Your sample looks as following:
+
+    
+    <div class="...class...">
+         <p><a href="...@...">...text...</a></p>
+    </div>
 
 
 

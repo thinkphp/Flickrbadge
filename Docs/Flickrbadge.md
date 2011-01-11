@@ -3,7 +3,6 @@ Class: Flickrbadge {#Flickrbadge}
 
 This plugin MooTools allows you to create an unobtrusive interactive Flickr badge for your website or blog.
 
-
 Flickrbadge Method: constructor {#Flickrbadge: constructor}
 -----------------------------------------------------------
 
@@ -17,7 +16,7 @@ Flickrbadge Method: constructor {#Flickrbadge: constructor}
 
 #### options:
 
-- containerClass  (``String`` default to 'flickrbadge')
+- containerClass  (``String`` default to 'flickrbadge') 
 - openClass       (``String`` default to 'flickrbadgeopen')
 - originClass     (``String`` default to 'flickrlink') 
 - listClass       (``String`` default to 'flickritems')

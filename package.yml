@@ -1,0 +1,7 @@
+name: Flickrbadge
+author: thinkphp
+current: v1.0
+category: Widgets
+tags: [jsonp,request,interface,flickr,photos,badge,widgets]
+docs: 
+demo: http://thinkphp.github.com/Flickrbadge

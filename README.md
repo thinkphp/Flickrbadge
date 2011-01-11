@@ -39,16 +39,17 @@ In your BODY:
 * the script is a single include and loads the style sheet and the class helps files on demand when they are needed.
 * visitors can see your photos on the page and click the thumbnails to see the larger preview. You can style the the badge any way you like by changing the supplied CSS file.
 * the options can be changed in any way you need.
-* the sample looks as following:
-
-  #html
-  <div class="...class...">
-       <p><a href="...@...">...text...</a></p>
-  </div>
 
   You can see the badge in action:
 - [http://thinkphp.github.com/Flickrbadge/](http://thinkphp.github.com/Flickrbadge/)
 - []()
+
+  Your sample looks as following:
+
+  <div class="...class...">
+       <p><a href="...@...">...text...</a></p>
+  </div>
+
 
 
 ### Requirements:

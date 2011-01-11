@@ -42,7 +42,7 @@ In your BODY:
 
 ### You can see the badge in action:
 - [http://thinkphp.github.com/Flickrbadge/](http://thinkphp.github.com/Flickrbadge/)
-- []()
+- [http://jsfiddle.net/z4gVk/](http://jsfiddle.net/z4gVk/)
 
 
 Your sample looks as following:

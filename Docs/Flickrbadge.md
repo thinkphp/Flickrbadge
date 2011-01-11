@@ -16,14 +16,14 @@ Flickrbadge Method: constructor {#Flickrbadge: constructor}
 
 #### options:
 
-- containerClass  (``String`` default to 'flickrbadge') 
+- containerClass  (``String`` default to 'flickrbadge') the class 
 - openClass       (``String`` default to 'flickrbadgeopen')
 - originClass     (``String`` default to 'flickrlink') 
 - listClass       (``String`` default to 'flickritems')
 - bigImageClass   (``String`` default to 'flickrimage')
 - CSSURL          (``String`` default to 'flickrbadge.css')
-- prevHTML        (``Object`` defalt to '<img src="la.gif" alt="prev"/>')
-- nextHTML        (``Object`` defalt to '<img src="ra.gif" alt="next"/>')
+- prevHTML        (``Object`` defalt to '&lt;img src="la.gif" alt="prev"/&gt;')
+- nextHTML        (``Object`` defalt to '&lt;img src="ra.gif" alt="next"/&gt;')
 - seeAllLabel     (``String`` default to 'see all photos')
 - navClass        (``String`` default to 'flickrnav')
 - currentClass    (``String`` default to 'current')
